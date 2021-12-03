@@ -1,0 +1,2 @@
+public class Feature7 {
+}
